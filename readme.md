@@ -9,6 +9,6 @@
 * 公式Repo：https://github.com/fchollet/deep-learning-with-python-notebooks
 
 # Remaining tasks
- * tf2.0のべんきょう
+ * tf2.0
 
 EOF
