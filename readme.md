@@ -12,4 +12,8 @@
 * 書籍：https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
 * 公式Repo:https://github.com/ageron/handson-ml2
 
+## [つくりながら学ぶ! PyTorchによる発展ディープラーニング](pytorch_advanced)
+* 書籍リンク：https://book.mynavi.jp/ec/products/detail/id=104855
+* 公式Repo：https://github.com/YutaroOgawa/pytorch_advanced
+
 EOF
