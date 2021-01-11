@@ -16,4 +16,9 @@
 * 書籍リンク：https://book.mynavi.jp/ec/products/detail/id=104855
 * 公式Repo：https://github.com/YutaroOgawa/pytorch_advanced
 
+## [生成Deep Learning](GDL_code_study)
+* 書籍リンク：https://www.oreilly.co.jp/books/9784873119205/
+* 公式Repo(tf2.0ブランチ)：https://github.com/davidADSP/GDL_code/tree/tensorflow_2
+
+
 EOF
